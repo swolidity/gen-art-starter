@@ -1,0 +1,33 @@
+{
+  "name": "gen-art-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swolidity/gen-art-starter.git"
+  },
+  "author": "swolidity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swolidity/gen-art-starter/issues"
+  },
+  "homepage": "https://github.com/swolidity/gen-art-starter#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.4",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^7.10.2",
+    "next": "^13.0.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-p5-wrapper": "^3.4.0"
+  }
+}
